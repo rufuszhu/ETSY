@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ETSY</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="error_loading_result">There was a problem loading products</string>
+    <string name="empty_products">There are no any products</string>
+    <string name="current_page">Current Page: </string>
+    <string name="loading">Loading…</string>
+    <string name="usd">USD</string>
+    <string name="cad">CAD</string>
+    <string name="eur">EUR</string>
+    <string name="gbp">GBP</string>
+</resources>
